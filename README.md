@@ -4,4 +4,4 @@ This is a network of characters from the Harry Potter books. This has been done 
 
 You can find network inside the **'Harry Potter Network.ipynb'** file.
 
-![Harry Potter Network](./book1-graph.png)
+![Harry Potter Network](./book1-graph2.png)
